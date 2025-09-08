@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Joao Victor Guero 👋</h1>
+<h1 align="center">Olá, eu sou o João Victor Guero 👋</h1>
 <h3 align="center">Sou um programador apaixonado por tecnologia e pelo desenvolvimento de soluções criativas.</h3>
 
 ---
