@@ -8,7 +8,7 @@
 - 💻 Sou programador com experiência em **C#, C++, HTML e CSS**.
 - 🎮 Tenho um grande interesse pela área de **Desenvolvimento de Jogos e Ciência da Computação**.
 - 🌱 Atualmente estou aprofundando meus conhecimentos em **Unity**.
-- 👯 Procuro colaborar em projetos open-source, especialmente na área de games, mobile ou desktop.
+- 👯 Procuro colaborar em projetos open-source, especialmente na área de games, mobile ou desktop, ou áreas de ensino.
 - 📫 Onde me encontrar: **guero.trabalho@icloud.com**
 
 ---
