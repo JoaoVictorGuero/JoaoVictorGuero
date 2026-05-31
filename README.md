@@ -29,8 +29,8 @@ Estas são as tecnologias com as quais tenho mais experiência:
 
 <p align="left"> 
   <strong>Interesses em Jogos:</strong><br>
-  <a href="https://unity.com/" target="_blank"> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="unity"/> </a>
-  <a href="https://www.unrealengine.com/" target="_blank"> <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" alt="unrealengine"/> </a>
+  <a href="https://unity.com/" target="_blank"> <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" alt="unity"/> </a>
+  <a href="https://www.godotengine.org/" target="_blank"> <img src="https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white" alt="unrealengine"/> </a>
 </p>
 
 ---
