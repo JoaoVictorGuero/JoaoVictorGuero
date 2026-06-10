@@ -38,5 +38,5 @@ Estas são as tecnologias com as quais tenho mais experiência:
 
 ### 📫 Conecte-se Comigo
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-guero/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Seu Linkedin" height="30" width="40" /></a> <br> <br> <strong>Fale pelo Linkedin ou pelo email mostrado acima!</strong><br>
+<p align="left"> 
+  <a>guero.trabalho@icloud.com</a> <br> <strong>Fale pelo email mostrado acima!</strong><br>
